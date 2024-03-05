@@ -1,0 +1,6 @@
+def calc_sum(nums,index = 0):
+    pass
+
+
+numbers = [int(n) for n in input().split()]
+print(calc_sum(numbers))
